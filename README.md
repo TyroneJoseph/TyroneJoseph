@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Application**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at (www.tyronejoseph.com)
 
