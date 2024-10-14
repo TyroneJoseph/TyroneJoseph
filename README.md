@@ -5,13 +5,13 @@
 -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=tyronejoseph" alt="tyronejoseph" /></a> </p>
 
-- 🔭 I’m currently working on **Web Application**
+- 🔭 I’m currently working on **Becoming the best Web Developer i can be.**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **many things, I believe that everyday is a learning opportunity.**
 
 - 👨‍💻 All of my projects are available at (www.tyronejoseph.com)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **Contact@tyronejoseph.com**
 
