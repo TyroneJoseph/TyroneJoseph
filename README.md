@@ -60,7 +60,7 @@
 ### IDEs
 
 <p>
-<img src="https://img.shields.io/badge/VisualStudiologo=visualstudiocode&logocolor=white&style=for-the-badge" height="35" alt="git logo"  />
+<img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/file_type_vscode.svg" alt="Visual Studio Code" width="40" height="40">
 </p>
 
   
