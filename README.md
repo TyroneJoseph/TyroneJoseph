@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
   <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge"  height="35" alt="next logo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=for-the-badge" height="35" alt="typescript logo" />
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff for-the-badge" height="35" alt="sass logo" />
 </p>
 
 ### Mobile Application Development
