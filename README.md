@@ -83,4 +83,7 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=dark&hide_border=false"/>
   <br />
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Quote" />
+
  
