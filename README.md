@@ -42,3 +42,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/React_Native-%2320232a?logo=react&logoColor=%2361DAFB(#)&style=for-the-badge" height="35" alt="reactnative logo"  />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35" alt="sql logo" />
+</p>
