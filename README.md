@@ -60,8 +60,11 @@
 ### IDEs
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="120" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="120" height="40"/>
 </p>
 
-  
+### Operating Systems
+
+<p>
+   <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
 </p>
