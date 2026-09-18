@@ -9,3 +9,7 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rahilahmed95/rahilahmed95/blob/main/Coding%20GIF.gif?raw=true">
+
+- 🌱 I’m currently learning **Artificial Intelligence & DSA**
+- 💬 Ask me about **Web Development | Android | DSA | Artificial Intelligence**
+- 📫 How to reach me **contact@tyronejoseph.com**
