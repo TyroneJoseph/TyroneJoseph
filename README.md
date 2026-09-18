@@ -80,9 +80,9 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Tyrone Joseph GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
   <br />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=dark&hide_border=false" alt="Tyrone Joseph" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=dark&hide_border=false"/>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
