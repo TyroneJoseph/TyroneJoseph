@@ -80,8 +80,7 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <br />
+ 
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=dark&hide_border=false"/>
   <br />
  
