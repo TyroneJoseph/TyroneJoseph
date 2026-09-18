@@ -60,7 +60,7 @@
 ### IDEs
 
 <p>
-<img src="https://raw.githubusercontent.com/microsoft/vscode-icons/main/icons/file_type_vscode.svg" alt="Visual Studio Code" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="120" height="40"/>
 </p>
 
   
