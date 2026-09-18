@@ -49,3 +49,19 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" height="35" alt="sql logo" />
 </p>
+
+### Version Control System And Tools
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
+</p>
+
+### IDEs
+
+<p>
+<img src="https://img.shields.io/badge/VisualStudiologo=visualstudiocode&logocolor=white&style=for-the-badge" height="35" alt="git logo"  />
+</p>
+
+  
+</p>
