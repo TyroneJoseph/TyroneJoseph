@@ -61,7 +61,7 @@
 ### IDEs
 
 <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="250" height="80"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" width="200" height="65"/>
 </p>
 
 ### Operating Systems
