@@ -7,3 +7,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=noto-serif&weight=700&pause=400&color=463CD2&width=1100&center=true&lines=Welcome+To+My+Github+Profile;let's+collaborate+and+develop+our+abilities." alt="Typing SVG">
   </a>
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/rahilahmed95/rahilahmed95/blob/main/Coding%20GIF.gif?raw=true">
