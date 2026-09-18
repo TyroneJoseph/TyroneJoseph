@@ -68,3 +68,21 @@
 <p>
    <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white&style=for-the-badge" height="35" alt="apple logo" />
 </p>
+
+### 💫 About Me:
+
+- 👯 I’m looking to collaborate on Web Development | App Development | Artificial Intelligence
+- 🤝 I’m looking for help with Web Development | App Development | Artificial Intelligence
+- 🌱 I’m currently learning how to become the best developer I can be
+💬 Ask me about Web Development | App Development | Artificial Intelligence
+⚡ Fun fact: I love turning ideas into real-world applications.
+
+### 📊 GitHub Stats:
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Tyrone Joseph GitHub Stats" />
+  <br />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=dark&hide_border=false" alt="Tyrone Joseph" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Tyrone Joseph GitHub Top Languages" />
+</p>
