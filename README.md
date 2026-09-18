@@ -39,3 +39,6 @@
 </p>
 
 ### Mobile Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-%2320232a?logo=react&logoColor=%2361DAFB(#)&style=for-the-badge" height="35" alt="reactnative logo"  />
