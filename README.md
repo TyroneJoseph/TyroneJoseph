@@ -66,5 +66,5 @@
 ### Operating Systems
 
 <p>
-   <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+   <img src="https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white&style=for-the-badge" height="35" alt="apple logo" />
 </p>
