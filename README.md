@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahilsamani&theme=default&hide_border=false"/>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=Tyronejoseph&theme=shadow)/>
   <br />
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="GitHub Quote" />
