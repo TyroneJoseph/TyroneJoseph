@@ -82,7 +82,7 @@
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tyronejoseph&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="tyronejoseph GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=tyronejoseph&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="tyronejoseph GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilsamani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Rahilsamani GitHub Top Languages" />
 
