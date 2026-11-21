@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Web Development | App development | Artificial Intelligence**
-- 📫 How to reach me **contact@tyronejoseph.com**
+- 📫 How to reach me **tyronej244@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
